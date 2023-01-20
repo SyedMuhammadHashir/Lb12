@@ -15,7 +15,7 @@ public class Main {
 		    }
 	public boolean CheckingPrime(int num){
 		boolean isPrime = true;
-		if (num ==1)
+		if (num ==0)
 			isPrime= false;
 		    return false;
 		    }
